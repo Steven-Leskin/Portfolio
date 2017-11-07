@@ -5,7 +5,7 @@ Former lawyer, municipal judge, port manager and now coder...although coding is 
 
 You can find my website at www.StevenLeskin.com.
 
-My linked in profile is located here: https://www.linkedin.com/in/steven-leskin-611083150/
+My Linkedin profile is located here: https://www.linkedin.com/in/steven-leskin-611083150/
 
 Below, please find links to coding projects I completed at The Tech Academy in Portland, Oregon.
 
