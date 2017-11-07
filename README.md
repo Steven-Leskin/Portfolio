@@ -1,5 +1,5 @@
-# Portfolio
-Programming Portfolio
+# Programming Portfolio
+An index to sample coding projects.
 
 Former lawyer, municipal judge, port manager and now coder...although coding is not new for me. I had been coding in my law practice for several years and developed product for two markets. 
 
